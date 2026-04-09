@@ -1,6 +1,6 @@
 ***
 # 1_documento_marco_SGSI.md (Borrador)
-
+***
 ## 1. Contexto Organizacional
 
 NovaTech Solutions es una empresa mexicana ubicada en la ciudad de Monterrey, México, que cuenta con una plantilla activa de 120 empleados. La organización opera en el sector tecnológico y se dedica al desarrollo de software, creación de plataformas web y prestación de servicios digitales orientados a pequeñas y medianas empresas. Durante los últimos cinco años, la empresa ha experimentado un crecimiento acelerado y vertiginoso, pasando de ser un estudio pequeño a una compañía con clientes a nivel nacional. Este ritmo de expansión trajo consigo un incremento significativo en el volumen de datos gestionados, una mayor complejidad en la infraestructura y nuevas dependencias tecnológicas que, en consecuencia, elevaron los riesgos operativos.
@@ -10,7 +10,7 @@ Actualmente, NovaTech Solutions carece de un Sistema de Gestión de Seguridad de
 * **Atención a clientes:** Departamento encargado de brindar soporte técnico, gestionar las solicitudes y administrar la información personal y de contacto de los clientes mediante sistemas CRM y bases de datos.
 * **Administración:** Responsable de los procesos de facturación, contratos, recursos humanos y gestión de información financiera y datos personales de los empleados.
 * **Infraestructura tecnológica:** Área encargada de administrar y mantener las bases de datos, los servidores y el almacenamiento alojado en la nube, así como el correo corporativo y las aplicaciones web.
-
+***
 ## 2. Alcance del SGSI
 
 El alcance del Sistema de Gestión de Seguridad de la Información (SGSI) se define para proteger los activos de información que sostienen los procesos operativos de NovaTech Solutions, garantizando en todo momento su Confidencialidad, Integridad y Disponibilidad. 
@@ -30,7 +30,6 @@ El alcance del Sistema de Gestión de Seguridad de la Información (SGSI) se def
 * **Protección Administrativa y Financiera:** Resguardo de la información financiera, documentos contractuales y credenciales de acceso a sistemas administrados por los equipos internos.
 
 ***
-
 ## 3. Objetivos de Seguridad
 
 Los objetivos de seguridad de NovaTech Solutions están diseñados para ser el pilar que soporte el crecimiento del negocio y la confianza de nuestros clientes, alineándose directamente con la visión de la Dirección General.
@@ -47,7 +46,7 @@ Los objetivos de seguridad de NovaTech Solutions están diseñados para ser el p
 * **Objetivo 4: Fortalecer la Resiliencia Operativa mediante la Gestión de Riesgos.**
     Identificar y mitigar el 100% de los riesgos críticos detectados mediante la metodología OCTAVE Allegro antes del cierre del ciclo anual.
     * **Justificación CIA:** Impacta de forma integral en la **Triada CIA**, ya que permite anticipar amenazas que podrían comprometer la privacidad, la veracidad o el acceso a la información estratégica del negocio.
-
+***
 ## 4. Roles y Estructura Organizacional
 
 Para asegurar el éxito del SGSI, se define la siguiente estructura de gobernanza, donde cada rol tiene responsabilidades específicas sobre los activos de información de NovaTech Solutions.
@@ -83,7 +82,7 @@ Este marco legal es crítico dado que la empresa gestiona:
 * **Datos de Empleados:** Información sensible de los 120 colaboradores gestionada por el área de Administración y Recursos Humanos.
 
 El SGSI establece los controles necesarios para cumplir con los principios de licitud, consentimiento, información y responsabilidad que exige la ley, mitigando riesgos de sanciones legales y daños reputacionales.
-
+***
 ## 7. Modelo de Gestión de Riesgos
 
 NovaTech Solutions adopta oficialmente la metodología **OCTAVE Allegro** como su modelo estándar para la evaluación y gestión de riesgos de seguridad de la información. A diferencia de otros enfoques, OCTAVE Allegro permite una evaluación exhaustiva centrada en los activos de información en su contexto operativo.
@@ -93,7 +92,7 @@ El proceso de gestión de riesgos se priorizará sobre los activos críticos ide
 * **Sistema CRM:** Asegurando la integridad y disponibilidad de la plataforma de atención a clientes y sus bases de datos asociadas.
 
 Este modelo permitirá identificar amenazas y vulnerabilidades de manera proactiva, facilitando la toma de decisiones informadas para la mitigación de riesgos.
-
+***
 ## 8. Ciclo de Mejora Continua
 
 Para garantizar que el SGSI sea un sistema dinámico y resiliente, NovaTech Solutions operará bajo el modelo de mejora continua **PDCA (Plan-Do-Check-Act)**:
