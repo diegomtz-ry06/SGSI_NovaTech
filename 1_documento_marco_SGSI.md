@@ -29,10 +29,6 @@ El alcance del Sistema de Gestión de Seguridad de la Información (SGSI) se def
 * **Continuidad de la Infraestructura en la Nube:** Monitoreo y protección de las bases de datos y servidores en la nube para asegurar la disponibilidad continua de los servicios y mitigar el riesgo de interrupciones prolongadas o pérdida de datos por fallas de configuración.
 * **Protección Administrativa y Financiera:** Resguardo de la información financiera, documentos contractuales y credenciales de acceso a sistemas administrados por los equipos internos.
 
-Excelente avance. Para completar el archivo **1_documento_marco_SGSI.md**, he redactado las secciones solicitadas integrando los objetivos estratégicos de **NovaTech Solutions** con los requerimientos técnicos del estándar ISO/IEC 27001 y la metodología de gestión de riesgos.
-
-Aquí tienes el borrador profesional:
-
 ***
 
 ## 3. Objetivos de Seguridad
@@ -66,3 +62,5 @@ Para asegurar el éxito del SGSI, se define la siguiente estructura de gobernanz
     Un grupo especializado encargado de actuar de forma inmediata ante cualquier evento que comprometa la seguridad, como accesos sospechosos a repositorios o fallas en servidores en la nube. Su función principal es la contención, análisis y recuperación rápida de la operación.
 * **Usuarios Finales (Colaboradores):**
     Los 120 empleados de NovaTech son responsables de cumplir con las políticas de seguridad (como el cierre de sesiones y el uso correcto del correo) y participar activamente en los programas de concientización para reducir la probabilidad de incidentes por error humano.
+
+***
