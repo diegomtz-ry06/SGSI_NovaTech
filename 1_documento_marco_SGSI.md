@@ -64,3 +64,41 @@ Para asegurar el éxito del SGSI, se define la siguiente estructura de gobernanz
     Los 120 empleados de NovaTech son responsables de cumplir con las políticas de seguridad (como el cierre de sesiones y el uso correcto del correo) y participar activamente en los programas de concientización para reducir la probabilidad de incidentes por error humano.
 
 ***
+
+## 5. Relación con ISO/IEC 27001
+
+El SGSI de NovaTech Solutions se diseña tomando como marco de referencia principal el estándar internacional **ISO/IEC 27001**. Esta norma proporciona la estructura fundamental para el establecimiento, implementación, mantenimiento y mejora continua del sistema. 
+
+La organización utilizará este estándar para:
+* Gobernar la estructura documental y los procesos de seguridad de manera sistemática.
+* Guiar la selección y aplicación de controles de seguridad técnicos, administrativos y físicos adaptados a las necesidades del negocio.
+* Asegurar que la seguridad de la información no sea un esfuerzo aislado, sino una capacidad organizacional estratégica y alineada con las mejores prácticas globales.
+
+## 6. Relación con la Legislación Aplicable
+
+Como empresa mexicana con sede en Monterrey, NovaTech Solutions tiene la obligación legal y el compromiso ético de proteger la privacidad de las personas. El SGSI garantiza el cumplimiento estricto de la **Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP)**.
+
+Este marco legal es crítico dado que la empresa gestiona:
+* **Datos de Clientes:** Información personal, de contacto y técnica almacenada en el sistema CRM y bases de datos comerciales.
+* **Datos de Empleados:** Información sensible de los 120 colaboradores gestionada por el área de Administración y Recursos Humanos.
+
+El SGSI establece los controles necesarios para cumplir con los principios de licitud, consentimiento, información y responsabilidad que exige la ley, mitigando riesgos de sanciones legales y daños reputacionales.
+
+## 7. Modelo de Gestión de Riesgos
+
+NovaTech Solutions adopta oficialmente la metodología **OCTAVE Allegro** como su modelo estándar para la evaluación y gestión de riesgos de seguridad de la información. A diferencia de otros enfoques, OCTAVE Allegro permite una evaluación exhaustiva centrada en los activos de información en su contexto operativo.
+
+El proceso de gestión de riesgos se priorizará sobre los activos críticos identificados, tales como:
+* **Código Fuente:** Protegiendo la propiedad intelectual y los repositorios Git frente a accesos no autorizados o alteraciones.
+* **Sistema CRM:** Asegurando la integridad y disponibilidad de la plataforma de atención a clientes y sus bases de datos asociadas.
+
+Este modelo permitirá identificar amenazas y vulnerabilidades de manera proactiva, facilitando la toma de decisiones informadas para la mitigación de riesgos.
+
+## 8. Ciclo de Mejora Continua
+
+Para garantizar que el SGSI sea un sistema dinámico y resiliente, NovaTech Solutions operará bajo el modelo de mejora continua **PDCA (Plan-Do-Check-Act)**:
+
+1.  **Plan (Planificar):** Establecer los objetivos de seguridad, evaluar los riesgos mediante OCTAVE Allegro y diseñar los controles y políticas necesarios.
+2.  **Do (Hacer):** Implementar las políticas de seguridad, ejecutar los controles seleccionados y realizar los programas de capacitación y concientización para el personal.
+3.  **Check (Verificar):** Monitorear el desempeño del sistema a través de métricas e indicadores clave (KPIs), realizar auditorías internas y revisar la efectividad de la respuesta a incidentes.
+4.  **Act (Actuar):** Tomar acciones correctivas basadas en los resultados de la verificación para cerrar brechas de seguridad y ajustar el sistema ante nuevos cambios en el entorno tecnológico de la empresa.
