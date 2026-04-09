@@ -1,7 +1,8 @@
 # SGSI_NovaTech
 Producto Integrador de Aprendizaje - Misión: "Blindaje Organizacional" de NovaTech.
-
+-------
 Objetivo: Diseñar el Sistema de Gestión de Seguridad de la Información (SGSI) para NovaTech Solutions.
+-------
 
 Comité de Seguridad de la Información: 
 ```text
@@ -11,9 +12,10 @@ Comité de Seguridad de la Información:
 * Jessier
 * Julio
 ```
+-------
 Normativa Aplicable: 
 SGSI alineado con la ISO/IEC 27001, OCTAVE Allegro y la LFPDPPP.
-
+-------
 Índice de Carpetas:
 ```text
 SGSI_NovaTech/
@@ -30,3 +32,4 @@ SGSI_NovaTech/
 ├── 11_cumplimiento_normativo/
 └── README.md
 ```
+-------
