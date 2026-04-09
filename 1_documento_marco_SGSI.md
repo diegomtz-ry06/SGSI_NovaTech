@@ -1,5 +1,5 @@
 ***
-# 1_documento_marco_SGSI.md (Borrador)
+# 1_documento_marco_SGSI.md
 ***
 ## 1. Contexto Organizacional
 
@@ -72,7 +72,7 @@ La organización utilizará este estándar para:
 * Gobernar la estructura documental y los procesos de seguridad de manera sistemática.
 * Guiar la selección y aplicación de controles de seguridad técnicos, administrativos y físicos adaptados a las necesidades del negocio.
 * Asegurar que la seguridad de la información no sea un esfuerzo aislado, sino una capacidad organizacional estratégica y alineada con las mejores prácticas globales.
-
+***
 ## 6. Relación con la Legislación Aplicable
 
 Como empresa mexicana con sede en Monterrey, NovaTech Solutions tiene la obligación legal y el compromiso ético de proteger la privacidad de las personas. El SGSI garantiza el cumplimiento estricto de la **Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP)**.
