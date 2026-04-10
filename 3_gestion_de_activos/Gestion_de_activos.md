@@ -1,6 +1,15 @@
-3_gestion_de_activos.mdIntroducción a la Gestión de ActivosEl presente inventario constituye el núcleo operativo del Sistema de Gestión de Seguridad de la Información (SGSI) de NovaTech Solutions. Su propósito fundamental es identificar, clasificar y asignar responsabilidades claras sobre los elementos que procesan, almacenan o transmiten información vital para la organización. Al definir qué información requiere confidencialidad, integridad y disponibilidad, la empresa abandona la improvisación técnica para adoptar una estrategia estructurada y auditable de protección.Además, este inventario funciona como el insumo principal y obligatorio para la Fase 4 del proyecto: la evaluación de riesgos mediante la metodología OCTAVE Allegro. OCTAVE Allegro se centra inherentemente en la protección de los contenedores de información; por lo tanto, perfilar correctamente la criticidad de activos como el código fuente, los sistemas CRM y la infraestructura en la nube permitirá al Comité de Seguridad enfocar los esfuerzos de mitigación en aquellos elementos cuyo compromiso representaría el mayor impacto para la continuidad del negocio y el cumplimiento regulatorio.Inventario de Activos de Información CríticosA continuación, se detalla el inventario estructurado de los activos tecnológicos y de información que sostienen la operación de NovaTech Solutions:
+***
+# 3_gestion_de_activos.md
+***
+## Introducción a la Gestión de Activos
 
-# Inventario de Activos de Información
+El presente inventario constituye el núcleo operativo del Sistema de Gestión de Seguridad de la Información (SGSI) de NovaTech Solutions. Su propósito fundamental es identificar, clasificar y asignar responsabilidades claras sobre los elementos que procesan, almacenan o transmiten información vital para la organización. Al definir qué información requiere confidencialidad, integridad y disponibilidad, la empresa abandona la improvisación técnica para adoptar una estrategia estructurada y auditable de protecció.
+
+Además, este inventario funciona como el insumo principal y obligatorio para la Fase 4 del proyecto: la evaluación de riesgos mediante la metodología OCTAVE Allegro. OCTAVE Allegro se centra inherentemente en la protección de los contenedores de información; por lo tanto, perfilar correctamente la criticidad de activos como el código fuente, los sistemas CRM y la infraestructura en la nube permitirá al Comité de Seguridad enfocar los esfuerzos de mitigación en aquellos elementos cuyo compromiso representaría el mayor impacto para la continuidad del negocio y el cumplimiento regulatorio.
+***
+## Inventario de Activos de Información Críticos
+
+A continuación, se detalla el inventario estructurado de los activos tecnológicos y de información que sostienen la operación de NovaTech Solutions:
 
 | Nombre del Activo | Propietario | Tipo de Información | Nivel de Criticidad | Relación con Procesos del Negocio |
 | :--- | :--- | :--- | :--- | :--- |
